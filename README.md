@@ -1,4 +1,4 @@
-# Educational-planning
+# Educational-planning :school:
 This project is part of subject Problem Solving in Information Technology (PSIT) <br>
 Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
 
@@ -9,7 +9,7 @@ Faculty of Information Technology, King Mongkut's Institute of Technology Ladkra
 
 <h2 id='obj'>Objective :dart:</h2> 
 
-<h2 id='author'>Author :notebook_with_decorative_cover:</h2>
+<h2 id='author'>Author :computer:</h2>
 - 61070196 นายวรเชษฐ์ นิ่มเจริญ <br>
 - 61070202 นายวรรธนะ มนรักษา <br>
 - 61070230 นางสาวศุภิสรา ชีวนันทพร <br>
