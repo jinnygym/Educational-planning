@@ -9,11 +9,11 @@ from tkinter import *
 #window
 window = Tk()
 window.title("My Educational-planning")
-window.configure(background="black")
+window.configure(background="#7482F4")
 
 photol = PhotoImage(file="graduation.png")
-Label (window, image=photol, bg="black") .grid(row=0, column=0, sticky=W)
+Label (window, image=photol, bg="#7482F4") .grid(row=0, column=0, sticky=W)
 #create label
-Label (window, text="$$$$$$$$$$  Welcome to Educational-planning  $$$$$$$$$$", bg="black", fg="white", font="none 12 bold") .grid(row=1, column=0, sticky=W)
+Label (window, text="$$$$$$$$$$  Welcome to Educational-planning  $$$$$$$$$$", bg="#FD2294", fg="white", font="Time 15") .grid(row=1, column=0, sticky=W)
 
 window.mainloop()
